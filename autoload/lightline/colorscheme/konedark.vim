@@ -1,5 +1,5 @@
 " =============================================================================
-" Filename: autoload/lightline/colorscheme/codedark.vim
+" Filename: autoload/lightline/colorscheme/konedark.vim
 " Author: artanikin
 " License: MIT License
 " Last Change: 2019/12/05 12:26:00
@@ -37,4 +37,4 @@ let s:p.tabline.right = [ s:p.normal.left[1] ]
 let s:p.normal.error = [ [ '#262626', '#D16969', s:term_black, s:term_red ] ]
 let s:p.normal.warning = [ [ '#262626', '#D7BA7D', s:term_black, s:term_yellow ] ]
 
-let g:lightline#colorscheme#codedark#palette = lightline#colorscheme#fill(s:p)
+let g:lightline#colorscheme#konedark#palette = lightline#colorscheme#fill(s:p)

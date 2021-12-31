@@ -1,8 +1,8 @@
 Windows Registry Editor Version 5.00
 
-; Base16 codedark
+; Base16 konedark
 ; schema by Tomas Iser (https://github.com/tomasiser)
-[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\codedark]
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\konedark]
 
 ; Default Foreground
 "Colour0"="212,212,212"
